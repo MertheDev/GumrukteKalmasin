@@ -34,6 +34,13 @@ function Gizlilik() {
             formunu doldurursanız verdiğiniz e-posta adresi, telefon numarası
             ve not.
           </li>
+          <li>
+            <strong>Anonim ziyaret istatistikleri:</strong> görüntülenen
+            sayfalar, yönlendiren kaynak, ülke, cihaz ve tarayıcı türü gibi
+            toplu kullanım verileri. Bu veriler sizi kişisel olarak
+            tanımlamaz; IP adresiniz saklanmaz ve ziyaretleriniz farklı
+            siteler arasında izlenmez.
+          </li>
         </ul>
         <p>
           Sitede üyelik yoktur; çerez tabanlı takip veya reklam çerezi
@@ -50,6 +57,10 @@ function Gizlilik() {
             İletişim bilgileri: sizi talebinize uygun, sicili doğrulanmış bir
             gümrük müşavirlik firmasıyla eşleştirmek ve size dönüş yapmak.
           </li>
+          <li>
+            Ziyaret istatistikleri: sitenin performansını ölçmek, içerik ve
+            kullanıcı deneyimini geliştirmek.
+          </li>
         </ul>
 
         <h2>Veriler kimlerle paylaşılır?</h2>
@@ -57,7 +68,9 @@ function Gizlilik() {
           Müşavir talebinizdeki iletişim bilgileri, yalnızca eşleştirme amacıyla
           anlaşmalı gümrük müşavirlik firmasına iletilir; bunun dışında üçüncü
           kişilerle paylaşılmaz, pazarlama amacıyla kullanılmaz ve satılmaz.
-          Veriler, altyapı sağlayıcımız Supabase üzerinde saklanır.
+          Veriler, altyapı sağlayıcımız Supabase üzerinde saklanır. Anonim
+          ziyaret istatistikleri ise barındırma hizmeti sağlayıcımız
+          tarafından, kişisel veri içermeyecek biçimde işlenir.
         </p>
 
         <h2>Saklama süresi</h2>
